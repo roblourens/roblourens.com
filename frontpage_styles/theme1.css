@@ -1,0 +1,41 @@
+body {
+    background-color:#F6F6F6;
+}
+
+#main {
+    color:#CBCBCB;
+}
+
+.gutterText {
+    color:#D4D4D4;
+    border-right: solid 1px #D4D4D4;
+}
+
+a {
+    color:#767676;
+}
+
+#rob_lourens {
+    color:black;
+    font-weight: normal;
+}
+
+#github {
+    color:teal;
+}
+
+#stackoverflow {
+    color:DarkOrange;
+}
+
+#linkedin {
+    color:#046DB3;
+}
+
+#blog {
+    color:#6F370F;
+}
+
+#email {
+    color:DarkSlateBlue;
+}
