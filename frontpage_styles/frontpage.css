@@ -1,18 +1,21 @@
 #main {
-    font-size:17px;
+    font-size:20px;
     margin-left:auto;
     margin-right:auto;
     margin-top:200px;
-    font-family: "Menlo";
+}
+
+#main, pre {
+    font-family: "Anonymous Pro", sans-serif;
+    font-weight: 400;
 }
 
 pre {
     margin-bottom:0px;
-    font-family: "Menlo";
 }
 
 .special {
-    font-weight:bold;
+    font-weight: 700;
 }
 
 .gutterText {
